@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Mr-Pranay-git/Namaste-React-Practice#readme",
   "devDependencies": {
     "parcel": "^2.15.4"
-  }
+  },
+  "browserslist":[
+    "last 2 Chrome version"
+  ]
 }
