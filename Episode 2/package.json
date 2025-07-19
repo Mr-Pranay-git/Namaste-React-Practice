@@ -4,13 +4,15 @@
   "description": "Namaste React by Akshay Saini Practice",
   "main": "index.js",
   "scripts": {
+    "start":"parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Mr-Pranay-git/Namaste-React-Practice.git"
   },
-  "keywords": [],
+  "keywords": [], 
   "author": "Akshay Saini",
   "license": "ISC",
   "bugs": {
