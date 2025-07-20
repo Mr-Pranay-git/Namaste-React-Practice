@@ -1,6 +1,34 @@
 {
+<<<<<<< HEAD
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   }
+=======
+  "name": "episode-3",
+  "version": "1.0.0",
+  "description": "namaste react episode 3",
+ 
+  "scripts": {
+
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Pranay-git/Namaste-React-Practice.git"
+  },
+  "author": "pranay manusmare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-Pranay-git/Namaste-React-Practice/issues"
+  },
+  "homepage": "https://github.com/Mr-Pranay-git/Namaste-React-Practice#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+
+  "browserslist":[
+    "last 2 version"     
+  ]
+>>>>>>> 1afbd63 (Episode 3 just started)
 }
